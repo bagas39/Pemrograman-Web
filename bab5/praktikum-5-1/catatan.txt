@@ -1,0 +1,2 @@
+Ini adalah teks yang ditulis menggunakan fungsi file_put_contents().
+Ini adalah teks tambahan (append) menggunakan fungsi fwrite().
